@@ -1,0 +1,23 @@
+{
+  "name": "WeChat-Verification-and-Chatbot-Node-Js",
+  "version": "1.0.0",
+  "description": "Used node.js to test out WeChat Verification and implement a simple messaging system. Hope to enable QR Codes in this app as well.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meghatron3000/WeChat-Verification-and-Chatbot-Node-Js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "jsontoxml": "0.0.11",
+    "querystring": "^0.2.0",
+    "url": "^0.11.0",
+    "xml2js": "^0.4.17"
+  }
+}
